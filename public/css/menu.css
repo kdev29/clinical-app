@@ -1,0 +1,17 @@
+.reactmodal li {
+    color: white;
+    margin: 25px 0;
+}
+.reactmodal li:hover {
+    color: rgb(93, 107, 233);
+    cursor: pointer;
+    background-color: black;
+}
+.reactmodal li>a{
+    color: white;
+    font-size: 2em;
+    cursor: pointer;
+}
+.reactmodal li .test {
+    color: blue
+}

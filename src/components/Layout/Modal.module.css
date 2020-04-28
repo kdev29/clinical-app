@@ -1,0 +1,17 @@
+/* li {
+    color: white;
+    margin: 25px 0;
+}
+li:hover {
+    color: rgb(93, 107, 233);
+    cursor: pointer;
+    background-color: black;
+}
+li>a{
+    color: white;
+    font-size: 2em;
+    cursor: pointer;
+}
+li .test {
+    color: blue
+} */
