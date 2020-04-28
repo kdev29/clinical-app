@@ -1,5 +1,5 @@
 # clinical-app
-Clinical management web app written in react with serverless-based backend in AWS
+Clinical management Progressive Web App written in react with serverless-based backend in AWS
 
 Architecture diagram
 
@@ -9,3 +9,5 @@ Preview
 http://clinical-app.s3-website-us-east-1.amazonaws.com/
 
 Design by: https://w3layouts.com/
+
+Install IOS:
